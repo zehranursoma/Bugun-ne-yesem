@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971259226270",
+    "project_id": "tasarimprojem-b4f17",
+    "storage_bucket": "tasarimprojem-b4f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971259226270:android:d65c61d775d4ba8011338f",
+        "android_client_info": {
+          "package_name": "com.example.tasarimprojem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971259226270-v2a87b2ap6s5h43lrh02v5jqoof9uvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCHkS_5INDN4jSPh3hC0-eVRAkkPc6Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971259226270-v2a87b2ap6s5h43lrh02v5jqoof9uvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
